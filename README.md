@@ -11,12 +11,16 @@ openmp
 
 ## A CAMB power spectrum
 
-## or a set of initial conditions in GADGET units, an ASCII file with 6 columns: x, y, z: comoving coordinates in Mpc/h, u, v, w: hte peculiar velocity in km/s times sqrt(a)
+## or a set of initial conditions in GADGET units
+An ASCII file with 6 columns: x, y, z: comoving coordinates in Mpc/h, u, v, w: hte peculiar velocity in km/s times sqrt(a)
 
 # OUTPUTS
 
 xyz.dat
-ASCII
+ASCII file with x, y z in Mpc/h
+
+uvw.dat
+ASCII file with vx, vy, vz in km/s
 
 # parameters
 parameters.h
