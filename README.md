@@ -17,10 +17,10 @@ An ASCII file with 6 columns: x, y, z: comoving coordinates in Mpc/h, u, v, w: h
 # OUTPUTS
 
 xyz.dat
-ASCII file with x, y z in Mpc/h
+ASCII file with comoving x, y z in Mpc/h
 
 uvw.dat
-ASCII file with vx, vy, vz in km/s
+ASCII file with comoving vx, vy, vz in km/s
 
 # parameters
 parameters.h
