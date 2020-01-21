@@ -1,2 +1,2 @@
 # N-Body
-Particle-meshi code for cosmological n-body simulations
+Particle-mesh code for cosmological n-body simulations
