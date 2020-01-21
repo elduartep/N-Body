@@ -1,6 +1,8 @@
 # N-Body
 Particle-mesh code for cosmological n-body simulations
 
+compile as g++ main.cpp -lfftw3_omp -lfftw3 -lm -fopenmp
+
 # First You need to install
 
 FFTW3
